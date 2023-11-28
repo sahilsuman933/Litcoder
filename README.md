@@ -23,7 +23,7 @@ The script relies on specific Python packages:
 
 ### Adding Valid Credentials
 
-1. n the main.py file, input the account credentials of a user who has completed the Litcoder lab and the credentials of
+1. In the main.py file, input the account credentials of a user who has completed the Litcoder lab and the credentials of
    the user to whom you intend to copy the lab code.
 
 ### Executing the Script
